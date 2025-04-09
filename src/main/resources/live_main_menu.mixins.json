@@ -1,0 +1,20 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.zlt.live_main_menu.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "live_main_menu.mixins.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "ConnectScreenMixin",
+    "RealmsMainScreenMixin",
+    "RealmsNotificationsScreenMixin",
+    "WorldListEntryMixin",
+    "WorldOpenFlowsMixin",
+    "accessor.TitleScreenAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

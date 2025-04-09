@@ -1,11 +1,13 @@
 modLoader="javafml"
 loaderVersion="${loader_version_range}"
 license="${mod_license}"
+issueTrackerURL="https://github.com/ZLT9/live-main-menu/issues"
 
 [[mods]]
 modId="${mod_id}"
 version="${mod_version}"
 displayName="${mod_name}"
+displayURL="https://modrinth.com/mod/live-main-menu"
 logoFile="icon.png"
 
 authors="${mod_authors}"

@@ -1,5 +1,6 @@
 {
   "live_main_menu.menu.savingLevel": "Saving LiveMainMenu world",
   "live_main_menu.configuration.useCustomFov": "Use Custom FOV",
-  "live_main_menu.configuration.liveMainMenuFov": "Live Main Menu FOV"
+  "live_main_menu.configuration.liveMainMenuFov": "Live Main Menu FOV",
+  "live_main_menu.configuration.hideWorld": "Hide World"
 }

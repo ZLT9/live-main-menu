@@ -12,6 +12,7 @@
     "RealmsNotificationsScreenMixin",
     "WorldListEntryMixin",
     "WorldOpenFlowsMixin",
+    "WorldSelectionListMixin",
     "accessor.TitleScreenAccessor"
   ],
   "injectors": {
